@@ -1,0 +1,10 @@
+.form_edit{
+	width: 80%;
+	padding: 3%;
+	color: yellow;
+	background-color: #0f3460;
+	margin-top: 3%;
+	font-family: \"Times New Roman\", Times, serif;
+	margin-left: 10%;
+	border-radius: 3em;
+}
